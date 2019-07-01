@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497002988760",
+    "firebase_url": "https://demoapp-e1258.firebaseio.com",
+    "project_id": "demoapp-e1258",
+    "storage_bucket": "demoapp-e1258.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497002988760:android:f59d6a5ecc6a85fc",
+        "android_client_info": {
+          "package_name": "com.example.mytabsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497002988760-au0pd7svbp0rktohh1uor6maqt0bv35q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytabsapp",
+            "certificate_hash": "d7c5f878d0fc76d6e8d94da86a37e4cc84f3a080"
+          }
+        },
+        {
+          "client_id": "497002988760-h8mdtac8p89r5ggmcadm4ina5lq06655.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjeTWrZ1Hwa1aCH93BZwp5737fsGJhBbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497002988760-h8mdtac8p89r5ggmcadm4ina5lq06655.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
